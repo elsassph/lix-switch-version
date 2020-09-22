@@ -1,0 +1,9 @@
+{
+  "name": "lix-switch-version",
+  "url" : "https://github.com/elsassph/lix-switch-version/",
+  "license": "MIT",
+  "tags": ["lix"],
+  "description": "A lix tool to easily switch a Haxe dependency version",
+  "version": "0.0.0",
+  "contributors": ["elsassph"]
+}

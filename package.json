@@ -1,0 +1,11 @@
+{
+  "name": "lix-switch-version",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "haxe build.hxml"
+  },
+  "private": true,
+  "dependencies": {
+    "lix": "^15.9.1"
+  }
+}
